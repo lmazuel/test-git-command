@@ -7,3 +7,7 @@ Something smart
 ## Chapter 2
 
 Something smarter
+
+## Chapter 3
+
+Important chapter here.
