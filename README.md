@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-Something smart
+This is where everything begins
 
 ## Chapter 2
 
